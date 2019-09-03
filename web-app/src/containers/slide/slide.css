@@ -1,0 +1,9 @@
+.slide-window {
+    display: flex;
+    flex-direction: column;
+  }
+  
+img {
+    width: 500px;
+    height: 300px;
+  }
